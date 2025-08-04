@@ -4,6 +4,13 @@
 //
 // IMPORTS
 //
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap');
+
+body {
+  font-family: 'Vazirmatn', sans-serif;
+  direction: rtl;
+  text-align: right;
+}
 
 @import "reset";
 @import "variables";
